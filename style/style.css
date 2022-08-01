@@ -221,10 +221,12 @@ footer {
 
 .img-flex {
     flex-wrap: wrap;
-    max-width: 550px;
+    max-width: 650px;
     margin: 0 auto;
     display: flex;
+    justify-content: space-around;
 }
+
 
 .img-1 {
     box-shadow: inset 12px 12px 12px rgba(0, 0, 0, 0.295);
